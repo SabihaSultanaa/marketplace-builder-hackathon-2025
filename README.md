@@ -1,6 +1,6 @@
-#Rocket Seater Furniture 🛋️🚀#
+#Rocket Seater Furniture 🛋️🚀
 
-##Project Objective 🎯##
+##Project Objective 🎯
 
 The Rocket Seater Furniture project is an e-commerce platform built with Next.js (App Router) to provide a premium, seamless shopping experience. This site offers a diverse range of luxurious, high-quality seating and home decor items, with an emphasis on modern, elegant designs tailored to elevate both home and office spaces.
 
