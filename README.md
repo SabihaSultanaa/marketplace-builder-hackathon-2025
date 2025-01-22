@@ -1,4 +1,4 @@
-🛋️ Rocket Seater Furniture -Marketplace Project
+#🛋️ Rocket Seater Furniture -Marketplace Project
 
 📅 Day 1 Task: Establishing the Foundation for Your Marketplace Vision
 
