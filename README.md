@@ -1,5 +1,5 @@
 
-# Rocket Seater Furniture 🛋️🚀
+# Rocket Seater Furniture 🛋️
 
 ## Project Objective 🎯  
 
