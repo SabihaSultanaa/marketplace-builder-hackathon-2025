@@ -1,4 +1,5 @@
 🛋️ Rocket Seater Furniture Marketplace Project
+
 📅 Day 1 Task: Establishing the Foundation for Your Marketplace Vision
 📖 Overview
 This repository contains the completed task for Day 1 of the Rocket Seater Furniture Marketplace project. The task focused on creating the foundational elements of a furniture-focused e-commerce platform. This includes defining business objectives, identifying the marketplace type, and designing a data schema with key entities and their relationships.
