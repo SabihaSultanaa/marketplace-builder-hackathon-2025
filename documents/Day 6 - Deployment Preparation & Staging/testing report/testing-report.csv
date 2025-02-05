@@ -1,6 +1,7 @@
-﻿TEST CASE ID,DESCRIPTION,STEPS ,EXPECTED RESULT,ACTUAL RESULT,STATUS,REMARKS
-,,,,,,
-TC001,validate product listing,followed as given,product displayed,product displayed,passed,no issues found
-TC002,test Api error handling,followed as given,successfully done,successfully done,passed,perfectly handled
-TC003,check cart funtionality,followed as given,successfully done,successfully done,passed,works expected
-TC004,responsiveness,followed as given,responsive on each device,responsive on each device,passed,responsive  verified
+﻿TEST CASE ID,DESCRIPTION,STEPS ,EXPECTED RESULT,ACTUAL RESULT,STATUS,REMARKS,
+,,,,,,,
+TC001,validate product listing,followed as given,product displayed,product displayed,passed,no issues found,
+TC002,test Api error handling,followed as given,successfully done,successfully done,passed,perfectly handled,
+TC003,check cart funtionality,followed as given,successfully done,successfully done,passed,works expected,
+TC004,responsiveness,followed as given,responsive on each device,responsive on each device,passed,responsive  verified,
+TC005,Shipment funtionality,followed as given,render shipmemt data successful,render shipmemt data successful,passed,no issues found,
